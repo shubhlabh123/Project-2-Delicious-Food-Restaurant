@@ -7,7 +7,7 @@
 
 ![Name](https://img.shields.io/badge/Project%20Made%20by-Shubham%20Somvanshi-white)
 
-![Live class](https://img.shields.io/badge/Live%20Project%202-Food%20Restaurant%20Home%20Page-orange)
+![Live class](https://img.shields.io/badge/Live--Project-Food--Restaurant--Home--Page-orange)
 
 # Live Project 2 : Food Restaurant Home Page
 
