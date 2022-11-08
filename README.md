@@ -12,7 +12,7 @@
 # Live Project 2 : Food Restaurant Home Page
 
 ## Project 2: (Mobile Responsive)
-[Live Link](https://deliceousfood.netlify.app/)
+[Live Link](project-2-delicious-food-template-9ysq-opy5od5l0.vercel.app)
 
 -   Skills Gained in this project.
     -   Learnd to use css position property.
