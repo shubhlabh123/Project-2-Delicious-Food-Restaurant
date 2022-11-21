@@ -176,3 +176,9 @@
     bottom: -361px;
   }
 }
+@media only screen and (max-width: 453px) {
+  .hero-heading {
+    font-size: 33px;
+  }
+}
+  
