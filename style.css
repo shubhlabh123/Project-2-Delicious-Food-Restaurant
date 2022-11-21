@@ -180,5 +180,24 @@
   .hero-heading {
     font-size: 33px;
   }
-}
+}@media only screen and (max-width: 362px){
+ .hero-heading {
+    font-size: 27px;
+  }
+  .button-large {
+    background-color: rgb(255, 57, 90);
+    color: white;
+    position: absolute;
+    top: 137px;
+    padding: 10px 47px;
+    font-size: 15px;
+    border-color: rgb(255, 57, 90);
+    right: 65px;
+    font-weight: 500;
+  }
+  .btmlogo {
+    position: absolute;
+    right: 83px;
+    bottom: -305px;
+  }
   
